@@ -1,0 +1,16 @@
+{
+  "name": "generator-redux-react-basic",
+  "version": "0.1.0",
+  "description": "Simple Redux and React generator",
+  "files": [
+    "app",
+    "router"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "underscore.string": "^3.3.4",
+    "yeoman-generator": "^0.20.2"
+  }
+}
