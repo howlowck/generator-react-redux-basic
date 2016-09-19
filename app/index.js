@@ -98,7 +98,7 @@ module.exports = generators.Base.extend({
   
   installHotLoading: function () {
     if (this.cssModules) {
-      this.npmInstall(['react-hot-loader'], {'saveDev': true});
+      this.npmInstall(['react-hot-loader@^1.0.0'], {'saveDev': true});
     }
   },
   createServer: function () {

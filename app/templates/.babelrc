@@ -1,4 +1,3 @@
 {
-  "presets": ["es2015", "react"],
-  <% if (hotLoading) { %>"plugins": ["react-hot-loader/babel"]<% } %>
+  "presets": ["es2015", "react"]
 }
